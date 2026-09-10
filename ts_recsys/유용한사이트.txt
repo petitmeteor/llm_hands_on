@@ -1,0 +1,27 @@
+
+*** Time-Series 벤치마크용 유용한 사이트
+	- https://github.com/thuml/Time-Series-Library
+	- https://github.com/awslabs/gluonts
+
+
+*** 추천 시스템 관련 유용한 사이트
+	- https://github.com/RUCAIBox/RecBole
+
+
+*** 타블라 데이터에서 아노말리 디텍션
+	- https://huggingface.co/spaces/TabArena/leaderboard
+	
+	- PFN
+		- TabPFN drives by LiDAR (영상, linked in)
+		
+*** Latent Vector 문제점 (Graph 포함)
+	- User / Item 의 숫자가 많기 때문에 메모리 문제가 발생 U * I * d 로 엄청 커짐
+	- 새로운 유저에 대해서는 유의미한 Latent vector 를 구할 수 없다
+		- 새로운 유저에 대해서는 Content 기반의 추천을 하고, 향후 새로운 유저의 축적된 데이터를 재학습에 사용하는 편임
+		
+*** 유재민 교수 / 최도윤 박사
+
+https://sites.google.com/view/doyunchoi?pli=1&authuser=0
+		
+		
+*** NGCF 코드 외우기!!

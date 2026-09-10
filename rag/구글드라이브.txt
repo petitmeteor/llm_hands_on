@@ -1,0 +1,26 @@
+
+
+** 강의자료 구글 드라이브
+
+	https://drive.google.com/drive/folders/1a9BWEmjb6Yygnoj0-tY7vyjKvnQCP0g4
+	
+
+** RAG (Samsung, final).pdf
+
+	- Matrix
+		- Sparse Matrix
+		- Dense Matrix
+		
+	- Boolean Reterival, TF-IDF
+		- BM25 설명하기 위해 과거 기술 설명 (요즘은 안씀)
+
+	- Sparse Retrieval (Heuristic retrieval, syntatic retrieval)	- BM25
+		- Retrieval for sparse representations (=contains many zeros)
+			- sparse vectors for documents
+		=> does not support Semantic retrieval properly	=> Dense Reterival 쪽으로 연구로 이동
+	
+	- Dense Retrieva (Learning-based retrieval, semantic retrieval)	- Cross Encoder (one encoder), Bi-Encoder
+		* Retrieval for dense representations (=no zeros)
+			- dense vectors for documents
+		
+
